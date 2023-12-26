@@ -2,8 +2,8 @@ package software.ulpgc.kata3;
 
 import org.jfree.chart.JFreeChart;
 
-import javax.swing.;
-import java.awt.;
+import javax.swing.*;
+import java.awt.*;
 
 public class MainFrame extends JFrame {
     private HistogramDisplay histogramDisplay;
